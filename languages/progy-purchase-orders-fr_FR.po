@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: progy-purchase-orders\n"
+"POT-Creation-Date: 2019-04-16 15:50-0500\n"
+"PO-Revision-Date: 2019-05-15 08:53-0500\n"
+"Last-Translator: \n"
+"Language-Team: Progymedia <pdeslongchamps@progymedia.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../progy-purchase-orders.php:58 ../progy-purchase-orders.php:70
+msgid "Purchase Orders"
+msgstr "Bons de commande"
+
+#: ../progy-purchase-orders.php:59
+msgid "Purchase Order"
+msgstr "Bon de commande"
+
+#: ../progy-purchase-orders.php:60
+msgid "Add order"
+msgstr "Créer une commande"
+
+#: ../progy-purchase-orders.php:61
+msgid "Add new order"
+msgstr "Créer une nouvelle commande"
+
+#: ../progy-purchase-orders.php:62
+msgid "Edit"
+msgstr "Modifier"
+
+#: ../progy-purchase-orders.php:63
+msgid "Edit order"
+msgstr "Modifier la commande"
+
+#: ../progy-purchase-orders.php:64
+msgid "New order"
+msgstr "Nouvelle commande"
+
+#: ../progy-purchase-orders.php:65
+msgid "View order"
+msgstr "Voir la commande"
+
+#: ../progy-purchase-orders.php:66
+msgid "Search orders"
+msgstr "Recherche de commandes"
+
+#: ../progy-purchase-orders.php:67
+msgid "No orders found"
+msgstr "Aucune commande trouvée"
+
+#: ../progy-purchase-orders.php:68
+msgid "No orders found in trash"
+msgstr "Aucune commande trouvée dans la corbeille"
+
+#: ../progy-purchase-orders.php:69
+msgid "Parent orders"
+msgstr "Commandes parentes"
+
+#: ../progy-purchase-orders.php:71
+msgid "Filter orders"
+msgstr "Filtrer les commandes"
+
+#: ../progy-purchase-orders.php:72
+msgid "Orders navigation"
+msgstr "Navigation de commandes"
+
+#: ../progy-purchase-orders.php:73
+msgid "Orders list"
+msgstr "Liste des commandes"
+
+#: ../progy-purchase-orders.php:78
+msgid "This is where store orders are stored."
+msgstr "C'est ici que sont stockées les commandes de magasin."
+
+#: ../progy-purchase-orders.php:103
+msgid "Purchase Received"
+msgstr "Achat reçu"
+
+#: ../progy-purchase-orders.php:113
+msgid "Purchase Cancelled"
+msgstr "Achat annulé"
+
+#: ../progy-purchase-orders.php:123
+msgid "Purchase Returned"
+msgstr "Achat retouré"
+
+#: ../progy-purchase-orders.php:190
+msgid "Pending"
+msgstr "En attente"
+
+#: ../progy-purchase-orders.php:191
+msgid "Received"
+msgstr "Reçu"
+
+#: ../progy-purchase-orders.php:192
+msgid "Cancelled"
+msgstr "Annulé"
+
+#: ../progy-purchase-orders.php:193
+msgid "Returned"
+msgstr "Retourné"
+
+#: ../progy-purchase-orders.php:280
+#, php-format
+msgid "Unable to add stock for item %s."
+msgstr "Impossible d'ajouter du stock pour l'article %s."
+
+#: ../progy-purchase-orders.php:291
+msgid "Stock levels increased:"
+msgstr "Les niveaux de stock ont ​​augmenté:"
+
+#: ../progy-purchase-orders.php:353
+#, php-format
+msgid "Unable to reduce stock for item %s."
+msgstr "Impossible de réduire le stock pour l'article %s."
+
+#: ../progy-purchase-orders.php:364
+msgid "Stock levels reduced:"
+msgstr "Niveaux de stock réduits:"
